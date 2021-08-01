@@ -1,4 +1,8 @@
 # NEB Simplified English-XII
+
+Drishti *(Nepali: दृष्टि | English: Vision)* is an open-source cross-platform mobile application project at Incubate Nepal that incorporates Machine Learning and Artificial Intelligence to help visually impaired people recognize different currency bills and perform daily cash transactions more effectively.
+
+We plan to expand Drishti to other applications like Short Text and Document Reading in the future.
 <img src="assets/logo.png" width="300" height="300"  alt="App Logo"/>
 This is a flutter-based mobile application which is a complete package which covers almost all the areas of NEB- grade 12 English including-
 Summaries and Solutions - Heritage of Words,
