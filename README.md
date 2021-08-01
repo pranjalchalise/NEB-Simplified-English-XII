@@ -1,5 +1,5 @@
 # NEB Simplified English-XII
-
+<img src="assets/logo.png" width="300" height="300"  alt="App Logo"/>
 This is a flutter-based mobile application which is a complete package which covers almost all the areas of NEB- grade 12 English including-
 Summaries and Solutions - Heritage of Words,
 Solutions- Meaning into Words (Student's Book),
