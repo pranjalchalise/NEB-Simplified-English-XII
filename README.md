@@ -10,3 +10,5 @@ Examples, meanings and use of Idioms, Proverbs, Metaphors, Similes, Paradox(25 e
 Features-
 Aesthetic UI
 Dark Mode available
+
+Note: The notes used in this app cannot be used for the benefit of similar such applications or platforms.
