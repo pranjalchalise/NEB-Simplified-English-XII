@@ -1,0 +1,124 @@
+STRUCTURES: 
+
+Must = I am sure             Str. =  subject + must + V1 + object 
+Can't = I am sure + not      Str. = subject + can't + V1 + object 
+May/might= perhaps           Str. = subject + may/might + v1 + object 
+may/might not = perhaps not        
+
+
+7.1  MUST, MIGHT, MAY AND CAN'T 
+
+1. I'm sure he is working. 
+
+Ans: 
+He must be working. 
+
+2. Perhaps he's going to ask me. 
+
+Ans:
+He might be going to ask me. 
+
+3. I'm sure he is not French. 
+
+Ans:
+He can't be French. 
+
+4. I'm sure they stole the money. 
+
+Ans: 
+They must have stolen the money. 
+
+5. Perhaps he was listening. 
+
+Ans: 
+He might have been listening. 
+
+6. I'm sure she wasn’t at work. 
+
+Ans: 
+She can't have been at work. 
+
+7. Perhaps he went home. 
+
+Ans: 
+He might have gone home. 
+
+8. Perhaps she's not coming. 
+
+Ans: 
+She might not be coming. 
+
+9. I'm sure they weren't camping. 
+
+Ans: 
+They can't have been camping. 
+
+10. Perhaps they haven't finished. 
+
+Ans: 
+They might not have finished. 
+
+11. Perhaps he was tired. 
+
+Ans: 
+He might have been tired. 
+ 
+12. I'm sure she was feeling ill. 
+
+Ans: 
+She must have been feeling ill. 
+
+13. I'm sure the snow's melted. 
+
+Ans: 
+The snow must have melted. 
+ 
+14. I'm sure they haven't been waiting long. 
+
+Ans: 
+They might not have been waiting long. 
+
+ 
+7.2 WORKING IT OUT 
+
+            A                                                  B 
+
+1. Did he go abroad?                                He hasn't got a passport. 
+
+2. Has he been working hard?                        He looks exhausted. 
+
+3. Is he redecorating this house?                   He had done it only a month ago. 
+
+4. Is he an Indian?                                 He's got fair hair. 
+
+5. Has the meat gone off?                           It smells terrible. 
+
+6. Is he talking on the phone?                      The line's engaged. 
+
+7. Is the table an antique.                         It only cost him £15 
+
+8. Is it his birthday?                              He got a lot of post this morning. 
+
+9. Has he been made redundant?                      He was only promoted last week. 
+
+ 
+Answers:
+
+1. He can’t have gone abroad because he hasn’t got a passport. 
+
+2. He can’t have been working hard because he looks exhausted 
+
+3. He can’t be redecorating his house because he had it done only a month ago. 
+
+4. He can’t be an Indian because he has got fair hair. 
+
+5. The meat must have gone off because it smells terrible. 
+
+6. He can’t be talking on the phone because the line’s engaged. 
+
+7. The table can’t be antique because it only cost him £15. 
+
+8. It must be his birthday because he got a lot of posts this morning. 
+
+9. He can’t have been made redundant because he was only promoted last week. 
+
